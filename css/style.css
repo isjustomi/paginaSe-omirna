@@ -124,7 +124,7 @@ body {
   height: 4px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-color: #ff4f5a;
+  background-color: #ffffff;
   border-radius: 5px;
 }
 
@@ -707,7 +707,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
   line-height: 1.6rem;
-  background-image: linear-gradient(45deg, #f7cbcb, #fc2f2f);
+  background-image: linear-gradient(45deg, #ffffff, #2c2e2e);
   min-height: 100vh;
 }
 
